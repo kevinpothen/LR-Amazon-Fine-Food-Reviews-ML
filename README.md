@@ -11,3 +11,6 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
 
 **Evaluation Metrics Used -**
 * AUC Score and Confusion Matrix.
+
+**Project Guidance -**
+* Applied AI Course Team - https://www.appliedaicourse.com/
